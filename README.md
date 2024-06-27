@@ -1,4 +1,4 @@
-# Roapmap To Learn Front-End Developemnt With React
+# React.js Learn Roadmap
 
 **📁 Fundamentals of JavaScript:**
 
